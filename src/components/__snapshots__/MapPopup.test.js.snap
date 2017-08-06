@@ -1,0 +1,7 @@
+exports[`test clean snapshot 1`] = `
+<div
+  className="MapPopup"
+  id="abc">
+  def
+</div>
+`;

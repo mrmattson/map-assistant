@@ -1,0 +1,12 @@
+exports[`test clean snapshot 1`] = `
+<div
+  className="OutputData">
+  <h4>
+    KML Output
+  </h4>
+  <textarea
+    className="OutputData-textarea"
+    readOnly={true}
+    value="<?xml version=\"1.0\" encoding=\"UTF-8\"?><kml xmlns=\"http://www.opengis.net/kml/2.2\"><Document><name>Generated from GeoConverter</name><description>This data is generated from data input into Geo File Converter.</description></Document></kml>" />
+</div>
+`;

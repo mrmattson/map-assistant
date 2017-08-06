@@ -1,0 +1,41 @@
+exports[`test clean snapshot 1`] = `
+<li
+  className="list-group-item">
+  <div>
+    None
+  </div>
+  <div>
+    Center: 
+    <pre>
+      00 00 00.0 N   000 00 00.0 E
+    </pre>
+  </div>
+  <div>
+    Radius: 
+    1
+     
+    units
+  </div>
+</li>
+`;
+
+exports[`test example circle polygon snapshot 1`] = `
+<li
+  className="list-group-item">
+  <div>
+    Circle
+  </div>
+  <div>
+    Center: 
+    <pre>
+      39 05 58.9 N   094 34 43.0 W
+    </pre>
+  </div>
+  <div>
+    Radius: 
+    10
+     
+    nauticalMiles
+  </div>
+</li>
+`;

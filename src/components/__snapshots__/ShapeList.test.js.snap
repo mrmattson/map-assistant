@@ -1,0 +1,4 @@
+exports[`test clean snapshot 1`] = `
+<ul
+  className="ShapeList list-group" />
+`;

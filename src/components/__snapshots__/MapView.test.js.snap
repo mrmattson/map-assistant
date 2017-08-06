@@ -1,0 +1,6 @@
+exports[`test clean snapshot 1`] = `
+<div>
+  <div
+    className="MapView-map" />
+</div>
+`;

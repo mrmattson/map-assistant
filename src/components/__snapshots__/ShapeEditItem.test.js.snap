@@ -1,0 +1,68 @@
+exports[`test clean snapshot 1`] = `
+<li
+  className="list-group-item">
+  <button
+    className="btn btn-default"
+    disabled={false}
+    onClick={[Function]}
+    type="button">
+    Not Selected
+  </button>
+  <div
+    className="form-group">
+    <label
+      className="control-label"
+      htmlFor="formControlsText">
+      Title
+    </label>
+    <input
+      className="form-control"
+      id="formControlsText"
+      onChange={[Function]}
+      type="text"
+      value="" />
+  </div>
+  <div
+    className="form-group">
+    <label
+      className="control-label"
+      htmlFor={undefined}>
+      Center
+    </label>
+    <p
+      className="form-control-static" />
+  </div>
+  <div
+    className="form-group">
+    <label
+      className="control-label"
+      htmlFor="formControlsText">
+      Radius
+    </label>
+    <input
+      className="form-control"
+      id="formControlsText"
+      onChange={[Function]}
+      type="text"
+      value={1} />
+    <span
+      className="help-block">
+      Nautical Miles
+    </span>
+  </div>
+  <div
+    className="form-group">
+    <label
+      className="control-label"
+      htmlFor={undefined}>
+      Original Text Input
+    </label>
+    <textarea
+      className="form-control"
+      id={undefined}
+      readOnly={true}
+      type={undefined}
+      value={undefined} />
+  </div>
+</li>
+`;

@@ -1,0 +1,26 @@
+exports[`test clean snapshot 1`] = `
+<div
+  className="RawTextInput">
+  <div
+    className="form-group">
+    <label
+      className="control-label"
+      htmlFor={undefined}>
+      Text Input
+    </label>
+    <textarea
+      className="RawTextInput-rawTextTextarea form-control"
+      id={undefined}
+      onChange={[Function]}
+      type={undefined}
+      value="rawText" />
+  </div>
+  <button
+    className="btn btn-lg btn-primary"
+    disabled={false}
+    onClick={[Function]}
+    type="button">
+    Process Text
+  </button>
+</div>
+`;

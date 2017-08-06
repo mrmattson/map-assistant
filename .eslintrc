@@ -1,0 +1,12 @@
+{
+  "extends": ["airbnb", "standard"],
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "plugins": ["compat"],
+  "rules": {
+    "compat/compat": "error",
+    "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }]
+  }
+}
